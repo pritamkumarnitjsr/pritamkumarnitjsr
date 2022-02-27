@@ -1,12 +1,12 @@
 <h1 align="center">Hello ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRITAM KUMAR 👩‍💻</h1>
 <br>
 
-I am an Postgraduate Student
+I am a Postgraduate Student
 pursuing my MCA from National Institute of Technology Jamshedpur (NIT JSR)
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="200" height="300" />
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Data Structures and Algorithms
