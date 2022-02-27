@@ -38,7 +38,7 @@ pursuing my MCA from National Institute of Technology Jamshedpur (NIT JSR)
 
 
 ### Lets connect through:
-<a href="https://www.linkedin.com/in/pritam-kumar-6a1a93178/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https:https://www.linkedin.com/in/pritam-kumar-nitjsr/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
 
