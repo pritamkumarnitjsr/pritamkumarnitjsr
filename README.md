@@ -1,7 +1,6 @@
 <h1 align="center">Hello ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRITAM KUMAR 👩‍💻</h1>
+<h3 align="center">I'm passionate about coding and full stack developer.</h3>
 <br>
-<h3 align="center">A passionate about codng and full stack developer from India</h3>
-
 I am a Postgraduate Student
 pursuing my MCA from National Institute of Technology Jamshedpur (NIT JSR)
 
