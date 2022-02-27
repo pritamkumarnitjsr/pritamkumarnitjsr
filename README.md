@@ -43,4 +43,4 @@ pursuing my MCA from National Institute of Technology Jamshedpur (NIT JSR)
 
 
 
-[resume]: 
+[resume]: "https://drive.google.com/file/d/1WnoFaNpgrNIydomGTRuc2nBbSIMDaysk/view?usp=sharing"
